@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Game Amanda" is set in a dystopian future where humanity faces the consequences of environmental degradation and technological advancements","photo2":"https://iili.io/HgSYAnj.jpg"},
+  {"desc3":"Game Amanda" is set in a dystopian future where humanity faces the consequences of environmental degradation and technological advancements","photo3":"https://iili.io/HgSY091.png"},
+  {"desc4":"The game presents a richly detailed and atmospheric setting, featuring sprawling landscapes, decaying cities, and hidden secrets waiting to be discovered.","photo4":"https://iili.io/HgSY56Q.jpg"},
+  {"desc5":"Game Amanda" offers a hybrid gameplay experience, blending elements of open-world exploration, puzzle-solving, and character-driven storytelling","photo5":"https://iili.io/HgSYRMx.jpg"},
+  {"descd":"Players are granted the freedom to traverse the vast game world, encountering various challenges and engaging in both combat and non-combat encounters.","photod":"https://iili.io/HgSYYFV.webp"}
    ]
  
 }
